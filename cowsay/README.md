@@ -1,4 +1,4 @@
-# Dino Script
+# cowsay_characters Script
 
 This script demonstrates how to use the `cowsay` package to display messages with different ASCII characters.
 
